@@ -1,0 +1,116 @@
+
+/* adjust typography defaults */
+body.home {
+  
+  background-color: #000000;
+}
+
+body.files {
+  
+  background-color: #FFFFFF;
+}
+
+
+#emily {
+position: absolute;
+width: 570px;
+height: 513px;
+left: 58px;
+top: 100px;
+}
+
+#elliana {
+position: absolute;
+width: 500px;
+height: 380px;
+top: 580px;
+}
+
+#kelly {
+position: absolute;
+width: 234px;
+height: 244px;
+left: 679px;
+top: 120px;
+}
+
+#nina {
+position: absolute;
+width: 792px;
+height: 680px;
+left: 460px;
+top: 350px;
+}
+
+
+#hajin {
+position: absolute;
+width: 807px;
+height: 680px;
+left: 940px;
+top: -62px;
+}
+
+#rand {
+position: absolute;
+width: 360px;
+height: 326px;
+left: 1278px;
+top: 600px;
+}
+
+
+#back2{
+ position: absolute;
+width: 259px;
+height: 144px;
+left: -33px;
+top: 12px;
+   
+}
+
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+
+position: absolute;
+width: 540px;
+height: 522px;
+left: 1114px;
+top: 50px;
+
+background: url(circle2.png);
+
+  
+
+    
+   a:link {
+      text-decoration: none;
+      color:#ffffff
+    }
+
+    a:visited {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+    a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+      color:#ffffff
+
+    }
+
+    a:active {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+
