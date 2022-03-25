@@ -10,13 +10,25 @@ body.files {
   background-color: #FFFFFF;
 }
 
+h3 {
+ font-family: 'Poiret One',serif;
+}
 
+h4 {
+ font-family: 'Poiret One',serif;
+}
 
+h5 {
+ font-family: 'Poiret One',serif;
+}
+
+core {
+ font-family: 'Poiret One',serif;
+}
 
 /* images and videos max out at full width */
-img,
-video {
-  height: auto;
+img,video {
+
   max-width: 100%;
 }
 
