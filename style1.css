@@ -10,13 +10,25 @@ body.files {
   background-color: #FFFFFF;
 }
 
+h3 {
+ font-family: 'Poiret One',serif;
+}
 
+h4 {
+ font-family: 'Poiret One',serif;
+}
 
+h5 {
+ font-family: 'Poiret One',serif;
+}
+
+core {
+ font-family: 'Poiret One',serif;
+}
 
 /* images and videos max out at full width */
-img,
-video {
-  height: auto;
+img,video {
+
   max-width: 100%;
 }
 
@@ -126,6 +138,34 @@ background: url(circle2.png);
   text-decoration: none;
     }
 
+  a:link {
+      text-decoration: none;
+      color:#ffffff
+        
+    }
+
+
+    a:visited {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+    a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+      color:#ffffff
+
+    }
+
+    a:active {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+  
+  
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -191,6 +231,33 @@ background: url(circle2.png);
   font-weight: lighter;
   text-decoration: none;
     }
+  
+  a:link {
+      text-decoration: none;
+      color:#ffffff
+        
+    }
+
+
+    a:visited {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+    a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+      color:#ffffff
+
+    }
+
+    a:active {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -256,6 +323,33 @@ background: url(circle2.png);
   font-weight: lighter;
   text-decoration: none;
     }
+  
+  a:link {
+      text-decoration: none;
+      color:#ffffff
+        
+    }
+
+
+    a:visited {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+    a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+      color:#ffffff
+
+    }
+
+    a:active {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
 
 } 
 
@@ -323,6 +417,33 @@ background: url(circle2.png);
   text-decoration: none;
     }
 
+  a:link {
+      text-decoration: none;
+      color:#ffffff
+        
+    }
+
+
+    a:visited {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+    a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+      color:#ffffff
+
+    }
+
+    a:active {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+  
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -389,6 +510,31 @@ background: url(circle2.png);
   Y: 834px;
   font-weight: lighter;
   text-decoration: none;
+    }
+a:link {
+      text-decoration: none;
+      color:#ffffff
+        
+    }
+
+
+    a:visited {
+      text-decoration: none;
+      color:#ffffff
+
+    }
+
+    a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+      color:#ffffff
+
+    }
+
+    a:active {
+      text-decoration: none;
+      color:#ffffff
+
     }
 
   
