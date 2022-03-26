@@ -137,7 +137,9 @@ left: 360px;
 top: 1490px;
    
 }
-
+#back3{
+    display:none;
+  }
   
 }
 
@@ -265,7 +267,9 @@ top: 2150px;
    
 }
 
-  
+  #back3{
+    display:none;
+  }
   
 }
 
@@ -391,6 +395,10 @@ top: 2450px;
 }
 
   #next{
+    display:none;
+  }
+  
+  #back3{
     display:none;
   }
   
@@ -520,19 +528,15 @@ left: 890px;
 top: 1750px;
    
 }
+  
+  #back3{
+    display:none;
+  }
 
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  
-#next {
-position: absolute;
-width: 200px;
-height: 113px;
-left: 970.51px;
-top: 100px;
-}
   
   
   #faye{
@@ -601,8 +605,8 @@ position: absolute;
 width: 570px;
 height: 513px;
 left: 38px;
-top: 100px;
-display: none;
+top: 990px;
+
 
 }
   
@@ -611,8 +615,8 @@ display: none;
 position: absolute;
 width: 350px;
 height: 310px;
-top: 1090px;
- display: none;
+top: 800px;
+left:490px;
 
 }
 
@@ -620,9 +624,8 @@ top: 1090px;
 position: absolute;
 width: 434px;
 height:404px;
-left: 320px;
-top: 1250px;
- display: none;
+left: 1020px;
+top: 800px;
 
 }
   
@@ -630,9 +633,8 @@ top: 1250px;
 position: absolute;
 width: 512px;
 height: 460px;
-left: 710px;
-top: 1160px;
- display: none;
+left: 610px;
+top: 990px;
 
 }
 
@@ -640,31 +642,27 @@ top: 1160px;
 position: absolute;
 width: 247px;
 height:200px;
-left: 40px;
-top: 1352px;
- display: none;
+left: 1420px;
+top: 792px;
 
 }
  
   
 #rand {
 position: absolute;
-width: 350px;
-height: 306px;
-left: 30px;
-top: 1580px;
- display: none;
+width: 320px;
+height: 276px;
+left: 1400px;
+top: 1120px;
 
 }
   
 #back2{
 position: absolute;
-width: 240px;
-height: 146px;
-left: 890px;
-top: 1750px;
-display:none;
-
+width: 280px;
+height: 186px;
+left: 1060px;
+top: 1260px;
    
 }
 
